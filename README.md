@@ -1,3 +1,16 @@
+# Goal
+Add NFC tag read/writing from mobile webapp using the Web NFC API.
+See here:
+- https://developer.mozilla.org/en-US/docs/Web/API/Web_NFC_API
+- https://w3c.github.io/web-nfc/
+- https://googlechrome.github.io/samples/web-nfc/
+
+# To Do
+[ ] Practice web nfc code on the side
+[ ] Decide if and what libraries to use, if any
+[ ] Design architecture for NFC reading/writing
+
+
 <div align="center">
   <img src="/docs/docs/assets/img/lilbox.svg" height="200"/>
 </div>
